@@ -44,7 +44,9 @@ It will be beneficial to implement a KNN model in this project as well and test 
 
 
 ********************************
-Project 4 Resampling: 
+Project 4 Resampling: The data set "interacts" with the model and affect the results. Therefore we want to test and minimize the sensitivity of the model to the data set. To that end we can use resampling. Examples of resampling methods are leave one out cross validation (LOOCV), k-fold cross validation and bootstraping. 
+
+
 
 
 
