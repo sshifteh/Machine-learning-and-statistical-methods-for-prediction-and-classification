@@ -38,6 +38,9 @@ chap4_logisticReg_lab.r: We get familiar with some of the methods in R for class
 
 chap4_sec7_ex10.r: We use the Weekly data set to predict the movements of the stock market using a logistic regression model and evaluating the results. 
 
+chap4_sec7_ex11.r: We predict whether a given car gets high or low gas mileage based on the Auto data set. We create a training set and a test set and contrast the results from three different models, LDA, QDA and logistic regression. 
+It will be beneficial to implement a KNN model in this project as well and test for different values of k. 
+
 
 
 
