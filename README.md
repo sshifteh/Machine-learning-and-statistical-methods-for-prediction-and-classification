@@ -7,7 +7,9 @@ This folder contains projects from the book An Introduction to Statistical Learn
 Project 1: In this project we will write codes where we create vectors or load, examine and describe data sets in order to get familiar with the built-in methods and possibilities in R, the files are: 
 
 chap2_sec4_ex7.r : We make our own data set 
+
 chap2_sec4_ex9.r : We use the Auto data set from the ISLR library
+
 chap2_sec4_ex10.r : We use the Bowton data set from the Mass library
 
 
