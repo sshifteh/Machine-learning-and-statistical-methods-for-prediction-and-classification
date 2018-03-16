@@ -14,7 +14,7 @@ chap2_sec4_ex10.r : We use the Bowton data set from the Mass library
 
 
 ********************************
-Project 2 - Linear regression: This chapter is concerned with prediction based on continues data sets and inferens analysis, that is decide whether there exists a relationship between the target and the predictors,
+Project 2 Linear regression: This chapter is concerned with prediction based on continues data sets and inferens analysis, that is decide whether there exists a relationship between the target and the predictors,
 if so how strong is it? Which predictor affect the target the most and how precisely can we estimate the effect of each predictor? How well can we predict the target? Is there a linear relationship between the predictors and the target? Is there synergy effects? These are some of the questions that are adresses in these projects. 
 
 The projects are: 
@@ -32,7 +32,7 @@ chap3_sec7_ex14.r: This problem focuses on the collinearity problem
 
 
 *******************************
-Project 3 - Classification: When the response is qualitative, logistic regression can be used. We will consider the logistic regression, linear discriminant analysis (LDA), quadratic discriminant analysis (QDA), and K-nearest neighbour (KNN).
+Project 3 Classification: When the response is qualitative, logistic regression can be used. We will consider the logistic regression, linear discriminant analysis (LDA), quadratic discriminant analysis (QDA), and K-nearest neighbour (KNN).
 
 chap4_logisticReg_lab.r: We get familiar with some of the methods in R for classification
 
@@ -43,7 +43,8 @@ It will be beneficial to implement a KNN model in this project as well and test 
 
 
 
-
+********************************
+Project 4 Resampling: 
 
 
 
