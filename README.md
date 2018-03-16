@@ -1,7 +1,7 @@
 # Machine-learning-and-statistical-methods-with-R
 
 
-This folder contains projects from the book An Introduction to Statistical Learning with applications to R, by James, G. and others. 
+This folder contains projects from the book An Introduction to Statistical Learning with applications in R, by James, G. and others. 
 
 *************************************
 Project 1: In this project we will write codes where we create vectors or load, examine and describe data sets in order to get familiar with the built-in methods and possibilities in R, the files are: 
