@@ -22,7 +22,7 @@ lm.fit = lm(y ~ x)
 summary(lm.fit)
 
 
-#f) in terminal 
+#f) see notes 
 
 #g) 
 lm.fit2 = lm.fit(y~x+I(x^2))
