@@ -1,6 +1,6 @@
 
 # An introduction to statistical learning with applications in R, Exercise 3.7.10 
-# About the Carseat dataset 
+# Multivariate regression on the Carseat dataset 
 
 # a) Fit a multiple regression model to predict Sales using Price, Urban, and US
 library(IRSL)
