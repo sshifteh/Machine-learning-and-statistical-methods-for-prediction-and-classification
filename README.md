@@ -31,6 +31,12 @@ chap3_sec7_ex14.r: This problem focuses on the collinearity problem
 
 
 
+*******************************
+Project 3 - Classification: When the response is qualitative, logistic regression can be used. We will consider the logistic regression, linear discriminant analysis (LDA), quadratic discriminant analysis (QDA), and K-nearest neighbour (KNN).
+
+chap4_logisticReg_lab.r: We get familiar with some of the methods in R for classification
+
+chap4_sec7_ex10.r: We use the Weekly data set to predict the movements of the stock market using a logistic regression model and evaluating the results. 
 
 
 
